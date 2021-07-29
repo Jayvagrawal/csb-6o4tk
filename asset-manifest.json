@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://jayvagrawal.github.io/csb-6o4tk/static/css/main.a03f38e1.chunk.css",
+    "main.js": "https://jayvagrawal.github.io/csb-6o4tk/static/js/main.b2bdc1e3.chunk.js",
+    "main.js.map": "https://jayvagrawal.github.io/csb-6o4tk/static/js/main.b2bdc1e3.chunk.js.map",
+    "runtime-main.js": "https://jayvagrawal.github.io/csb-6o4tk/static/js/runtime-main.78a6bd60.js",
+    "runtime-main.js.map": "https://jayvagrawal.github.io/csb-6o4tk/static/js/runtime-main.78a6bd60.js.map",
+    "static/js/2.21457fc5.chunk.js": "https://jayvagrawal.github.io/csb-6o4tk/static/js/2.21457fc5.chunk.js",
+    "static/js/2.21457fc5.chunk.js.map": "https://jayvagrawal.github.io/csb-6o4tk/static/js/2.21457fc5.chunk.js.map",
+    "index.html": "https://jayvagrawal.github.io/csb-6o4tk/index.html",
+    "static/css/main.a03f38e1.chunk.css.map": "https://jayvagrawal.github.io/csb-6o4tk/static/css/main.a03f38e1.chunk.css.map",
+    "static/js/2.21457fc5.chunk.js.LICENSE.txt": "https://jayvagrawal.github.io/csb-6o4tk/static/js/2.21457fc5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.78a6bd60.js",
+    "static/js/2.21457fc5.chunk.js",
+    "static/css/main.a03f38e1.chunk.css",
+    "static/js/main.b2bdc1e3.chunk.js"
+  ]
+}
